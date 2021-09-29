@@ -1,0 +1,7 @@
+setup.py
+reverse/__init__.py
+reverse/reverse.py
+reverse.egg-info/PKG-INFO
+reverse.egg-info/SOURCES.txt
+reverse.egg-info/dependency_links.txt
+reverse.egg-info/top_level.txt
